@@ -166,7 +166,7 @@ $ root/>
 🔗 Link para o GitHub
 
 📎 Adicionar aqui quando o repositório estiver publicado:
-👉 https://github.com/seu-usuario/seu-repositorio
+👉 https://github.com/LucasMelo59/file_manager_store
 
 🧑‍🤝‍🧑 Integrantes da Dupla
 
