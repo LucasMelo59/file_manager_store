@@ -165,9 +165,7 @@ $ root/>
 
 🔗 Link para o GitHub
 
-📎 Adicionar aqui quando o repositório estiver publicado:
 👉 https://github.com/LucasMelo59/file_manager_store
 
 🧑‍🤝‍🧑 Integrantes da Dupla
-
  — João Lucas Melo / 2010433
